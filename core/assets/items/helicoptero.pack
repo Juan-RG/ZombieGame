@@ -1,0 +1,34 @@
+
+helicoptero.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+helicoptero_arranque
+  rotate: false
+  xy: 231, 2
+  size: 227, 82
+  orig: 227, 82
+  offset: 0, 0
+  index: 1
+helicoptero_arranque
+  rotate: false
+  xy: 460, 2
+  size: 227, 82
+  orig: 227, 82
+  offset: 0, 0
+  index: 2
+helicoptero_run
+  rotate: false
+  xy: 2, 2
+  size: 227, 82
+  orig: 227, 82
+  offset: 0, 0
+  index: -1
+helicoptero_arranque
+  rotate: false
+  xy: 2, 2
+  size: 227, 82
+  orig: 227, 82
+  offset: 0, 0
+  index: 3
